@@ -1,29 +1,22 @@
-# Nome do Mini Projeto
-
-(um parágrafo explicando)
-
-## 🤓 Antes de começar
-
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+Nada melhor do que manter a saúde em dia, não é? Sendo o IMC uma medida internacional usada para calcular se uma pessoa está no peso ideal, a nossa calculadora de Índice de Massa Corporal (IMC) é perfeita para isso.
 
 ## 🔨 Requisitos
 
-- Requisito 1
-- Requisito 2
+- Desenvolva a aplicação utilizando Vite + React;
+- Sua calculadora deve possuir:
+  - Input para informar o peso em *kg*;
+  - Input para informar a altura em *cm*;
+  - Botão para realizar o cálculo;
+- Como resultado, mostre uma tabela com as principais informações: peso, altura, IMC e resultado (como exemplo, para o IMC de 22.04, o resultado é Peso Normal);
+- Os campos devem ser resetados e desabilitados após o cálculo, e o botão deve mudar de "Calcular" para "Refazer";
+- Ao clicar em "Refazer", a tabela deve desaparecer e os campos devem sre novamente habilitados.
 
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
+## 🔍 Dicas
 
-- Requisito 3
-- ...
-
-## 🔨 Desafio extra para quem quer ir além
-
-(Essa seção é opcional)
-
-- Requisito extra 1. 
-- Requisito extra 2.
+- Procure entender como lidar com números flutuantes;
+- É muito importante saber a convenção para separação de números decimais em JavaScript;
+- Dê uma olhada na API `Intl` do JavaScript, ela poderá te ajudar;
+- Utilize condicionais para os resultados caso julgue necessário!
 
 ## 🎨 Design Sugerido
 
@@ -31,21 +24,23 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design]()
+🔗 [Link do design](https://www.figma.com/community/file/1314580663583006642/mini-projeto-calculadora-de-imc)
 
 ## 👉🏽 Sobre esse mini-projeto
 
 ### O que você irá praticar:
 
-#### React
+#### Vite
 
-- Habilidade 1 do React
-- Habilidade 2
+- Setup de um projeto React com Vite
+- Estrutura básica de um projeto React
+
+#### React e JS
+
+- Estado e Eventos com React
+- Formulários controlados com React
+- Números flutuantes com JavaScript
 
 #### TailwindCSS
 
-- Habilidade 1 do TailwindCSS
-
-### Pré requisitos
-
-(coloque aqui se houver algum)
+- Prática com o Framework
