@@ -9,7 +9,7 @@ Nada melhor do que manter a saúde em dia, não é? Sendo o IMC uma medida inter
   - Botão para realizar o cálculo;
 - Como resultado, mostre uma tabela com as principais informações: peso, altura, IMC e resultado (como exemplo, para o IMC de 22.04, o resultado é Peso Normal);
 - Os campos devem ser resetados e desabilitados após o cálculo, e o botão deve mudar de "Calcular" para "Refazer";
-- Ao clicar em "Refazer", a tabela deve desaparecer e os campos devem sre novamente habilitados.
+- Ao clicar em "Refazer", a tabela deve desaparecer e os campos devem ser novamente habilitados.
 
 ## 🔍 Dicas
 
