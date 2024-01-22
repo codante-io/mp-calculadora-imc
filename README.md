@@ -38,7 +38,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 #### React e JS
 
 - Estado e Eventos com React
-- Formulários controlados e não controlados com React
+- Formulários controlados com React
 - Números flutuantes com JavaScript
 
 #### TailwindCSS
